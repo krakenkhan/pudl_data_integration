@@ -92,6 +92,23 @@ Outputs:
 ### 3. Results (Analysis)
 
 - **Verdict columns** (e.g. `why_uneconomic` with text labels like `Zombie — paying with no output`, `Extreme cost — over $100/MWh`)
+
+Uneconomic plant counts per year (operating cost > $50/MWh), broken down by fuel type:
+
+#### Oil plants
+![Uneconomic oil plants per year](images/uneconomic-oil.png)
+
+A small category — most years have one or two uneconomic oil plants, with an outlier spike of six in 2015.
+
+#### Gas plants
+![Uneconomic gas plants per year](images/uneconomic-gas.png)
+
+Steady at 24–32 plants in the late 2010s, climbing to a peak of 48 in 2024 before easing back in 2025.
+
+#### Coal plants
+![Uneconomic coal plants per year](images/uneconomic-coal.png)
+
+The largest category, with a clear 2022 surge to 280 uneconomic plant-years — likely driven by the spike in coal fuel prices that year. Coal returns to a higher baseline than pre-2020.
 ---
 
 
