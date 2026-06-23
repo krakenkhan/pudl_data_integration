@@ -20,6 +20,8 @@ This project uses [PUDL (Public Utility Data Liberation)](https://catalystcoop-p
 - **Release**: `2026.6.1` (stable)
 - **AWS Open Data path**: `s3a://pudl.catalyst.coop/2026.6.1/`
 
+![PUDL data hierarchy: Utility → Plant → Generator](images/data-model.png)
+
  Input tables loaded by Notebook 1:
 
 | Table | Purpose |
