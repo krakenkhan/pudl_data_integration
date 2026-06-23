@@ -48,13 +48,13 @@ Three Databricks notebooks chained via `%run`, are loaded only in memory and are
 
 ## How to Run
 
-The repo is designed to be imported into Databricks and executed with zero setup.
 
 ```bash
 git clone https://github.com/krakenkhan/pudl_data_integration.git
 ```
+OR
 
-1. Import the notebooks into your Databricks workspace (**Workspace → Import → From file**)
+1. Import pudl_data_integration.dbc into your Databricks workspace (**Workspace → Import → From file**)
 2. Open `3.Results`
 3. Click **Run all**
 
